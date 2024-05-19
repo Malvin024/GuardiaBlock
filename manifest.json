@@ -1,0 +1,10 @@
+{
+    "name": "guardiablock",
+    "version": "1.0",
+    "description": "DevSage Adblocker Tutorial",
+    "permissions": ["webRequest", "webRequestBlocking", "call_uris>"],
+    "background": {
+        "scripts": ["background.js"]
+    },
+    "manifest_version": 2
+}
